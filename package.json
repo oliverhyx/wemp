@@ -1,6 +1,6 @@
 {
   "name": "@neuit/wemp",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "用于管理微信服务号的Node.js接口库",
   "main": "lib/main.js",
   "scripts": {
